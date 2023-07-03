@@ -21,7 +21,6 @@ redirect_from:
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on adaptation techniques in speech recognition and optimization algorithms. 
 
 # 📝 Selected Publications 
-
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
@@ -45,6 +44,8 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 - Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
 *IEEE International Conference on Communications Workshops (ICC 2019)*
+
+A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
 
 # 📖 Educations
 - *2020.08 - Present*, Ph.D. student, The Chinese University of Hong Kong                                                                            
