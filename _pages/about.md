@@ -48,7 +48,7 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
 
 # 📖 Educations
-- *2020.08 - Present*, Ph.D. student, The Chinese University of Hong Kong                                                                            
+- *2020.08 - 2024.07(expected)*, Ph.D. student, The Chinese University of Hong Kong                                                                            
 Information System at the Department of SEEM                                               
 Supervisor: Prof. Xunying Liu
   
