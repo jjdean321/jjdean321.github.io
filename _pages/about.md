@@ -21,7 +21,7 @@ redirect_from:
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
 
 # 📝 Selected Publications 
-- <u>**Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems**</u>        
+- <u>Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems</u>        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
@@ -29,19 +29,19 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
-- **Confidence Score Based Conformer Speaker Adaptation for Speech Recognition**              
+- <u>Confidence Score Based Conformer Speaker Adaptation for Speech Recognition</u>              
 **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng             
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
-- Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                            
+- <u>Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition</u>                            
 **Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                             
 *ISCA INTERSPEECH 2021, Brno, Czech Republic*
 
-- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                        
+- <u>Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission</u>                                        
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                             
 *OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
-- Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                
+- <u>Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems</u>                
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
