@@ -21,15 +21,15 @@ redirect_from:
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
 
 # 📝 Selected Publications 
-- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
+- **Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems**        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems                    
+- **Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems**                     
 **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
-- Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
+- **Confidence Score Based Conformer Speaker Adaptation for Speech Recognition**              
 **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng             
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
