@@ -21,6 +21,12 @@ redirect_from:
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
 
 # 📝 Selected Publications 
+A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
+
+- Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems        
+**Jiajun Deng**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu  
+*IEEE ICASSP 2024, Seoul, Korea*
+
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems          
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
@@ -45,7 +51,6 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
-A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
 
 # 📖 Educations
 - *2020.08 - 2024.07(expected)*, Ph.D. student, The Chinese University of Hong Kong                                                                            
