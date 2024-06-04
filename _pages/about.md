@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
+I am a Ph.D. student at The Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
