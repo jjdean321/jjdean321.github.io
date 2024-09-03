@@ -24,7 +24,7 @@ I am a Ph.D. student at The Chinese University of Hong Kong (CUHK), advised by P
 A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
 
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
-**Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu
+**Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu       
 *To appear in ISMIR 2024, San Francisco, USA*
 
 - Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems        
