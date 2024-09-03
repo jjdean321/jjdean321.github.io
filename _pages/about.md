@@ -44,7 +44,7 @@ A full list of publications can be found at <a href='https://jjdean321.github.io
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
 - Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                              
-**Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                             
+**Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu, Helen Meng                             
 *ISCA INTERSPEECH 2021, Brno, Czech Republic*
 
 - Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                          
