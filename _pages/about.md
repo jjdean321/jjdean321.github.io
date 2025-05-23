@@ -18,14 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-I am a Ph.D. student at The Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. I am fortunate to work with Prof. Xurong Xie and other collaborators in Andrew's group. My research currently focuses on exploring the idea of building an efficient, universal, and high-performance speech recognition system.
+I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. My research currently focuses on speech recognition, speech language modeling, speech generation, and music information retrieval.
 
 # 📝 Selected Publications 
-A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>here</a>.
+A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
+
+- CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining
+Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui
 
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
 **Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu       
-*To appear in ISMIR 2024, San Francisco, USA*
+*ISMIR 2024, San Francisco, USA*
 
 - Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu  
