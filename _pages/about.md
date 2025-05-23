@@ -26,7 +26,7 @@ Multiple research internships are available at Huawei (Hong Kong). Please feel f
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
 
 - CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining  
-Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui
+Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui    
 *ICME 2025, Nantes, France*
 
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
