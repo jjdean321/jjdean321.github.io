@@ -23,7 +23,7 @@ I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://jjdean321.github.io/pub/'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
 
-- CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining
+- CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining  
 Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui
 
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
@@ -60,7 +60,7 @@ Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Sim
 
 
 # 📖 Educations
-- *2020.08 - 2024.07(expected)*, Ph.D. student, The Chinese University of Hong Kong                                                                            
+- *2020.08 - 2024.07*, Ph.D., The Chinese University of Hong Kong                                                                            
 Information System at the Department of SEEM                                               
 Supervisor: Prof. Xunying Liu
   
