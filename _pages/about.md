@@ -20,7 +20,7 @@ redirect_from:
 # 💬 Biography
 I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. My research currently focuses on speech recognition, speech language modeling, speech generation, and music information retrieval.
 
-Multiple research internships are available at Huawei (Hong Kong). Please feel free to email me if you are interested.
+Multiple research internships are available at Huawei (Hong Kong). Please feel free to email me (jjdeng321@gmail.com) if you are interested.
 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
