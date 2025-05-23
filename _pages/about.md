@@ -27,7 +27,7 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining  
 Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui    
-*ICME 2025, Nantes, France*
+*IEEE ICME 2025, Nantes, France*
 
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
 **Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu       
