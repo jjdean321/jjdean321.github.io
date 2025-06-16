@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-Hi, there! I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. My research currently focuses on speech recognition, speech language modeling, speech generation, and music information retrieval.
+Hi, there! I received my Ph.D. from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, speech generation, automatic speech recognition, and music information retrieval.
 
 
 # 📝 Selected Publications 
