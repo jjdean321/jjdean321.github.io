@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, speech generation, automatic speech recognition, and music information retrieval.
+Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, automatic speech recognition, speech generation, and music information retrieval.
 
 
 # Selected Publications 
-A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
+A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
 
 - Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
 
