@@ -24,13 +24,9 @@ Hi, there! I received my Ph.D. from the Chinese University of Hong Kong (CUHK), 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
 
-- CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining  
-Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui    
-*IEEE ICME 2025, Nantes, France*
+- Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
 
-- Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
-**Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu       
-*ISMIR 2024, San Francisco, USA*
+- **Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
 
 - Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu  
