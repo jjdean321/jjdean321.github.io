@@ -23,7 +23,7 @@ Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong 
 
 # Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
-* indicates equal contributions.
+** indicates equal contributions.
 
 - Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
 
