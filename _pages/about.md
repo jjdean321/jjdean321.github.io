@@ -18,11 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-Hi, there! I received my Ph.D. from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, speech generation, automatic speech recognition, and music information retrieval.
+Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, speech generation, automatic speech recognition, and music information retrieval.
 
 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
+* indicates equal contributions.
 
 - Tristan Tsoi\*, **Jiajun Deng**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
 
@@ -46,11 +47,11 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 # 📖 Educations
 - *2020.08 - 2024.07*, Ph.D., The Chinese University of Hong Kong                                                                            
 Information System at the Department of SEEM                                               
-Supervisor: Prof. Xunying Liu
+Supervisor: <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>
   
 - *2017.09 - 2020.07*, M.E., University of Science and Technology of China        
 Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1%)                  
-Supervisor: Prof. Xianqing Jin & Prof. Zhengyuan Xu
+Supervisor: <a href='https://scholar.google.co.uk/citations?user=X2mXBIoAAAAJ&hl=en'>Prof. Xianqing Jin</a> & <a href='https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm'>Prof. Zhengyuan Xu</a>
 
 - *2013.09 - 2017.06*, B.E., Central China Normal University                            
 School of Physics, GPA: 91.26/100 (Rank: 1/58)
