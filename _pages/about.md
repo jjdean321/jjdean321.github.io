@@ -29,17 +29,17 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
 
-- Guinan Li, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Mingyu Cui, Helen Meng, and Xunying Liu, Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 2707-2723, 2023
-
 - **<u>Jiajun Deng</u>**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu, Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE ICASSP 2024, Seoul, Korea
 
 - Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu, Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition, ISCA Interspeech 2024, Kos, Greece
 
 - **<u>Jiajun Deng</u>**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu, Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems, ISCA INTERSPEECH 2023, Dublin, Ireland
 
+- Guinan Li, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Mingyu Cui, Helen Meng, and Xunying Liu, Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 2707-2723, 2023
+
 - Yi Wang, **<u>Jiajun Deng</u>**, Tianzi Wang, Bo Zheng, Shoukang Hu, Xunying Liu, and Helen Meng, Exploiting prompt learning with pre-trained language models for Alzheimer's Disease detection, IEEE ICASSP 2023, Rhodes Island, Greece
 
-- **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu, Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023
+- **<u>Jiajun Deng</u>**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu, Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023
 
 - Mingyu Cui, **<u>Jiajun Deng</u>**, Shoukang Hu, Xurong Xie, Tianzi Wang, Shujie HU, Mengzhe Geng, Boyang Xue, Xunying Liu and Helen Meng, Two-pass Decoding and Cross-adaptation Based System Combination of End-to-end Conformer and Hybrid TDNN ASR Systems, ISCA INTERSPEECH 2022, Incheon, Korea
 
