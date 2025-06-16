@@ -18,9 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. My research currently focuses on speech recognition, speech language modeling, speech generation, and music information retrieval.
+Hi, there! I received my Ph.D. from the Chinese University of Hong Kong (CUHK), advised by Prof. Xunying Liu. My research currently focuses on speech recognition, speech language modeling, speech generation, and music information retrieval.
 
-Multiple research internships are available at Huawei (Hong Kong). Please feel free to email me if you are interested.
 
 # 📝 Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> and <a href='https://jjdean321.github.io/pub/'>here</a>.
@@ -68,8 +67,8 @@ Information System at the Department of SEEM
 Supervisor: Prof. Xunying Liu
   
 - *2017.09 - 2020.07*, M.E., University of Science and Technology of China        
-Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1%??)                  
-Supervisor: Prof. Xianqing Jin
+Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1%)                  
+Supervisor: Prof. Xianqing Jin & Prof. Zhengyuan Xu
 
 - *2013.09 - 2017.06*, B.E., Central China Normal University                            
 School of Physics, GPA: 91.26/100 (Rank: 1/58)
