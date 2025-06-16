@@ -28,33 +28,19 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - **Jiajun Deng**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
 
-- Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems        
-**Jiajun Deng**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu  
-*IEEE ICASSP 2024, Seoul, Korea*
+- **Jiajun Deng**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu, Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE ICASSP 2024, Seoul, Korea
 
-- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems          
-**Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
-*ISCA INTERSPEECH 2023, Dublin, Ireland*
+- **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu, Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems, ISCA INTERSPEECH 2023, Dublin, Ireland
 
-- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems                       
-**Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
-*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
+- **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu, Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023
 
-- Confidence Score Based Conformer Speaker Adaptation for Speech Recognition                
-**Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu, Helen Meng          
-*ISCA INTERSPEECH 2022, Incheon, Korea*
+- **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu, Helen Meng, Confidence Score Based Conformer Speaker Adaptation for Speech Recognition, ISCA INTERSPEECH 2022, Incheon, Korea
 
-- Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                              
-**Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu, Helen Meng                             
-*ISCA INTERSPEECH 2021, Brno, Czech Republic*
+- **Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu, Helen Meng, Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition, ISCA INTERSPEECH 2021, Brno, Czech Republic
 
-- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                          
-**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                             
-*OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
+- **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission, OSA Optics Express, Volume 28, Pages 15984-16002, 2020
 
-- Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                  
-**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
-*IEEE International Conference on Communications Workshops (ICC 2019)*
+- **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems, IEEE International Conference on Communications Workshops (ICC 2019)
 
 
 # 📖 Educations
