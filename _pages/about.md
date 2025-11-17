@@ -24,6 +24,8 @@ Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong 
 # Selected Publications 
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
 
+- Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
+  
 - **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
 
 - **<u>Jiajun Deng</u>**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu, Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE ICASSP 2024, Seoul, Korea
@@ -39,8 +41,6 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 - **<u>Jiajun Deng</u>**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission, OSA Optics Express, Volume 28, Pages 15984-16002, 2020
 
 - **<u>Jiajun Deng</u>**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems, IEEE International Conference on Communications (ICC 2019)
-
-- Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
 
 - Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu, Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition, ISCA Interspeech 2024, Kos, Greece
 
