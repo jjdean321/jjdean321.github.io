@@ -31,7 +31,7 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 - **<u>Jiajun Deng</u>**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu, Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems, ISCA INTERSPEECH 2023, Dublin, Ireland
 
 - **<u>Jiajun Deng</u>**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu, Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023
-- 
+
 - **<u>Jiajun Deng</u>**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu, Helen Meng, Confidence Score Based Conformer Speaker Adaptation for Speech Recognition, ISCA INTERSPEECH 2022, Incheon, Korea
 
 - **<u>Jiajun Deng</u>**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu, Helen Meng, Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition, ISCA INTERSPEECH 2021, Brno, Czech Republic
