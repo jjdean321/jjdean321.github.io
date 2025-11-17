@@ -52,7 +52,8 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - Tianzi Wang, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng, Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection, ISCA INTERSPEECH 2022, Incheon, Korea 
 
-
+Preprints
+- Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
 
 # Educations
 - *2020.08 - 2024.07*, Ph.D., The Chinese University of Hong Kong                                                                            
