@@ -22,11 +22,12 @@ Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong 
 
 
 # Selected Publications/Preprints
+A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
+
 Preprints
 - Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
 
-A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
-
+Selected Publications
 - **<u>Jiajun Deng</u>**, Guinan Li, Chunyat Wu, Tristan Tsoi, Huimeng Wang, Tao Zhong, Zhaoqing Li, Chengxi Deng, Youjun Chen, Shujie Hu, Xunying Liu, Simon Lui. Three Seconds is Sufficient: A Multi-Pronged Framework for Model-based Speaker Adaptation in ASR under Data-scarce Conditions, IEEE ICASSP 2026, Barcelona, Spain
   
 - **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
