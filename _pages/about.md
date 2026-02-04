@@ -24,10 +24,6 @@ Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong 
 # Selected Publications/Preprints
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
 
-Preprints
-- Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
-
-Selected Publications
 - **<u>Jiajun Deng</u>**, Guinan Li, Chunyat Wu, Tristan Tsoi, Huimeng Wang, Tao Zhong, Zhaoqing Li, Chengxi Deng, Youjun Chen, Shujie Hu, Xunying Liu, Simon Lui. Three Seconds is Sufficient: A Multi-Pronged Framework for Model-based Speaker Adaptation in ASR under Data-scarce Conditions, IEEE ICASSP 2026, Barcelona, Spain
   
 - **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
@@ -46,9 +42,9 @@ Selected Publications
 
 - **<u>Jiajun Deng</u>**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems, IEEE International Conference on Communications (ICC 2019)
 
-- Chunyat Wu, **<u>Jiajun Deng</u>**, Zhengxi Liu, Zheqi Dai, Haolin He, Qiuqiang Kong, ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference, IEEE ICASSP 2026, Barcelona, Spain
-
 - Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
+
+- Chunyat Wu, **<u>Jiajun Deng</u>**, Zhengxi Liu, Zheqi Dai, Haolin He, Qiuqiang Kong, ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference, IEEE ICASSP 2026, Barcelona, Spain
 
 - Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu, Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition, ISCA Interspeech 2024, Kos, Greece
 
@@ -60,6 +56,8 @@ Selected Publications
 
 - Tianzi Wang, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng, Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection, ISCA INTERSPEECH 2022, Incheon, Korea 
 
+Preprints
+- Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
 
 # Educations
 - *2020.08 - 2024.07*, Ph.D., The Chinese University of Hong Kong                                                                            
