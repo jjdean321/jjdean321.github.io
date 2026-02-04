@@ -21,10 +21,13 @@ redirect_from:
 Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, automatic speech recognition, and speech synthesis.
 
 
-# Selected Publications 
+# Selected Publications/Preprints
+Preprints
+- Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
+
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions.
 
-- Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
+- **<u>Jiajun Deng</u>**, Guinan Li, Chunyat Wu, Tristan Tsoi, Huimeng Wang, Tao Zhong, Zhaoqing Li, Chengxi Deng, Youjun Chen, Shujie Hu, Xunying Liu, Simon Lui. Three Seconds is Sufficient: A Multi-Pronged Framework for Model-based Speaker Adaptation in ASR under Data-scarce Conditions, IEEE ICASSP 2026, Barcelona, Spain
   
 - **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu, Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features, ISMIR 2024, San Francisco, USA
 
@@ -42,6 +45,10 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - **<u>Jiajun Deng</u>**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu, Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems, IEEE International Conference on Communications (ICC 2019)
 
+- Chunyat Wu, **<u>Jiajun Deng</u>**, Zhengxi Liu, Zheqi Dai, Haolin He, Qiuqiang Kong, ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference, IEEE ICASSP 2026, Barcelona, Spain
+
+- Tristan Tsoi\*, **<u>Jiajun Deng</u>**\*, Yaolong Ju, Benno Weck, Holger Kirchhoff, Simon Lui, CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining, IEEE ICME 2025, Nantes, France
+
 - Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu, Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition, ISCA Interspeech 2024, Kos, Greece
 
 - Guinan Li, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Mingyu Cui, Helen Meng, and Xunying Liu, Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition, IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 2707-2723, 2023
@@ -52,8 +59,6 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 
 - Tianzi Wang, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng, Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection, ISCA INTERSPEECH 2022, Incheon, Korea 
 
-Preprints
-- Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
 
 # Educations
 - *2020.08 - 2024.07*, Ph.D., The Chinese University of Hong Kong                                                                            
