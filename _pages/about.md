@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-Hi, there! I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. I also worked closely with <a href='https://people.ucas.edu.cn/~xrxie?language=en'>Prof. Xurong Xie</a>. My research interests focus on speech language modeling, automatic speech recognition, and speech synthesis.
+Hi, there! I am a Senior Researcher at AudioLab Hong Kong, Huawei Leibniz Research Center. My current research focuses on building next-generation full-duplex speech language models and speech synthesis systems. I received the Ph.D. degree from the Chinese University of Hong Kong (CUHK) under the supervision of <a href='https://www1.se.cuhk.edu.hk/~xyliu/'>Prof. Xunying Liu</a>. My broader research interests include speech language modeling, automatic speech recognition, and speech synthesis.
 
 
 # Selected Publications/Preprints
