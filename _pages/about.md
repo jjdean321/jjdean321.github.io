@@ -61,7 +61,7 @@ A full list of publications can be found at <a href='https://scholar.google.com/
 - Tianzi Wang, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng, Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection, ISCA INTERSPEECH 2022, Incheon, Korea 
 
 Preprints
-- Tao Zhong, **<u>Jiajun Deng</u>**<sup>+</sup>, Nikita Kuzmin, Yinke Zhu, Tianxiang Cao, Tristan Tsoi, Zhili Tan, Simon Lui, Xunying Liu<sup>+</sup>. IRAF: Interference-Resilient Adaptive Fusion for Noise-Robust End-to-End Full-Duplex Spoken Dialogue Systems
+- Tao Zhong, **<u>Jiajun Deng</u>**<sup>+</sup>, Nikita Kuzmin, Yinke Zhu, Tianxiang Cao, Tristan Tsoi, Zhili Tan, Simon Lui, Xunying Liu<sup>+</sup>. IRAF: Interference-Resilient Adaptive Fusion for Noise-Robust End-to-End Full-Duplex Spoken Dialogue Systems, Preprint 2026
 
 - Chun Yat Wu\*, **<u>Jiajun Deng</u>**\*, Guinan Li, Qiuqiang Kong, Simon Lui, CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis, Preprint 2025.
 
