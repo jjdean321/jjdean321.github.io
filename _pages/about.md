@@ -24,7 +24,7 @@ Hi, there! I am a Senior Researcher at AudioLab Hong Kong, Huawei Leibniz Resear
 # Selected Publications/Preprints
 A full list of publications can be found at <a href='https://scholar.google.com/citations?user=d6Hf8gsAAAAJ&hl=en'>Google Scholar</a> or <a href='https://jjdean321.github.io/pub/'>here</a>. * indicates equal contributions. + indicates corresponding author.
 
-- Tristan Tsoi, **<u>Jiajun Deng</u>**\+, Yingke Zhu, Huu Quyen Dang, Tianxiang Cao, Nikita Kuzmin, Tao Zhong, Simon Lui. Next-Turn: Duration-Aware Streaming Endpoint Detection via Time-to-Next-Speech-Onset Prediction, ISCA INTERSPEECH 2026, Sydney, Australia
+- Tristan Tsoi, **<u>Jiajun Deng</u>**<sup>+</sup>, Yingke Zhu, Huu Quyen Dang, Tianxiang Cao, Nikita Kuzmin, Tao Zhong, Simon Lui. Next-Turn: Duration-Aware Streaming Endpoint Detection via Time-to-Next-Speech-Onset Prediction, ISCA INTERSPEECH 2026, Sydney, Australia
 
 - **<u>Jiajun Deng</u>**, Guinan Li, Chunyat Wu, Tristan Tsoi, Huimeng Wang, Tao Zhong, Zhaoqing Li, Chengxi Deng, Youjun Chen, Shujie Hu, Xunying Liu, Simon Lui. Three Seconds is Sufficient: A Multi-Pronged Framework for Model-based Speaker Adaptation in ASR under Data-scarce Conditions, IEEE ICASSP 2026, Barcelona, Spain
   
